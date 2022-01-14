@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hendranextgen
 - 👀 I’m interested in free & open source things
-- 🌱 I’m currently learning linux & web developing
+- 🌱 I’m currently learning linux & web development
 - 📫 How to reach me: email me at drosmigs@protonmail.com
 
 <!---
